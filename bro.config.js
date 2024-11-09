@@ -9,14 +9,14 @@ module.exports = {
   },
   /* use https://admin.bro-js.ru/ to create config, navigations and features */
   navigations: {
-    "nodejs.main": "/nodejs",
+    "sberhubproject.main": "/sberhubproject",
   },
   features: {
-    "nodejs": {
+    "sberhubproject": {
       // add your features here in the format [featureName]: { value: string }
     },
   },
   config: {
-    "nodejs.api": "/api",
+    "sberhubproject.api": "/api",
   },
 };
